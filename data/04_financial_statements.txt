@@ -1,0 +1,13 @@
+SOURCE: U.S. Securities and Exchange Commission - Beginners' Guide to Financial Statements
+
+Four important company financial statements are the balance sheet, income statement, cash flow statement, and statement of shareholders' equity.
+
+A balance sheet shows what a company owns and what it owes at a particular point in time.
+
+An income statement shows a company's revenue, expenses, and financial performance over a period of time.
+
+A cash flow statement shows how cash moves into and out of a company.
+
+The statement of shareholders' equity shows changes in the ownership value attributable to shareholders.
+
+Financial statements can help investors understand a company's financial condition and performance, but they should be considered together rather than relying on only one figure.

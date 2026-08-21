@@ -1,0 +1,15 @@
+SOURCE: U.S. Securities and Exchange Commission - How to Read a 10-K
+
+A Form 10-K is an annual report filed by most U.S. public companies with the Securities and Exchange Commission.
+
+A 10-K provides detailed information about a company's business, major risks, and operating and financial results.
+
+The Business section explains what the company does and how its operations work.
+
+The Risk Factors section describes important risks that could affect the company.
+
+The financial statements provide information about the company's financial performance and financial position.
+
+Management's Discussion and Analysis, often called MD&A, explains management's view of the company's results, trends, and factors affecting performance.
+
+Investors can use a 10-K to research a company, but the report should be analyzed critically rather than treating every statement as a prediction of future performance.

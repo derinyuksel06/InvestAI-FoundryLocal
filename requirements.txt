@@ -1,0 +1,6 @@
+streamlit
+numpy
+sentence-transformers
+torch
+torchvision
+foundry-local-sdk

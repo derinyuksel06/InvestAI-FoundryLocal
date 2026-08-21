@@ -1,0 +1,52 @@
+[
+  {
+    "source": "01_investing_basics.txt",
+    "chunk_id": 0,
+    "text": "SOURCE: Investor.gov - Introduction to Investing\n\nInvesting means putting money into assets such as stocks or bonds with the expectation of earning a return over time.\n\nInvestment returns can come from an increase in an asset's value, interest payments, or dividends.\n\nAll investments involve risk. The value of investments can rise or fall over time.\n\nBefore choosing investments, investors should consider their goals, time horizon, and tolerance for risk.\n\nStocks represent ownership in a company. Bonds generally represent money lent to a company or government.\n\nAsset allocation and diversification are two important ways to manage investment risk."
+  },
+  {
+    "source": "02_etfs.txt",
+    "chunk_id": 0,
+    "text": "SOURCE: Investor.gov - Exchange-Traded Funds (ETFs)\n\nAn exchange-traded fund, or ETF, is an investment fund whose shares can be bought and sold on an exchange.\n\nETFs can hold stocks, bonds, or other assets.\n\nMany ETFs hold investments across multiple companies or industries. This can help investors diversify instead of relying on one individual investment.\n\nHowever, not every ETF is highly diversified. Some ETFs may hold only a small number of investments or may focus on a very specific asset or sector.\n\nAn investor who buys an ETF owns a proportional interest in the fund's portfolio."
+  },
+  {
+    "source": "03_diversification.txt",
+    "chunk_id": 0,
+    "text": "SOURCE: Investor.gov - Asset Allocation and Diversification\n\nDiversification means spreading money across different investments rather than depending on a single investment.\n\nThe goal of diversification is to reduce the effect that poor performance from one investment may have on the overall portfolio.\n\nA portfolio can be diversified across different asset categories, such as stocks and bonds, and also within each asset category.\n\nMutual funds and ETFs can make diversification easier because one fund may hold many different investments.\n\nDiversification can help manage risk, but it cannot guarantee against investment losses."
+  },
+  {
+    "source": "04_financial_statements.txt",
+    "chunk_id": 0,
+    "text": "SOURCE: U.S. Securities and Exchange Commission - Beginners' Guide to Financial Statements\n\nFour important company financial statements are the balance sheet, income statement, cash flow statement, and statement of shareholders' equity.\n\nA balance sheet shows what a company owns and what it owes at a particular point in time.\n\nAn income statement shows a company's revenue, expenses, and financial performance over a period of time.\n\nA cash flow statement shows how cash moves into and out of a company.\n\nThe statement of shareholders' equity shows changes in the ownership value attributable to shareholders.\n\nFinancial statements can help investors understand a company's financial condition and performance, but they should be considered together rather than relying on only one figure."
+  },
+  {
+    "source": "05_reading_10k.txt",
+    "chunk_id": 0,
+    "text": "SOURCE: U.S. Securities and Exchange Commission - How to Read a 10-K\n\nA Form 10-K is an annual report filed by most U.S. public companies with the Securities and Exchange Commission.\n\nA 10-K provides detailed information about a company's business, major risks, and operating and financial results.\n\nThe Business section explains what the company does and how its operations work.\n\nThe Risk Factors section describes important risks that could affect the company.\n\nThe financial statements provide information about the company's financial performance and financial position.\n\nManagement's Discussion and Analysis, often called MD&A, explains management's view of the company's results, trends, and factors affecting performance.\n\nInvestors can use a 10-K to research a company, but the report should be analyzed critically rather than treating every statement as a prediction of future performance."
+  },
+  {
+    "source": "06_bonds.txt",
+    "chunk_id": 0,
+    "text": "Bonds\n\nSource: Investor.gov — U.S. Securities and Exchange Commission\n\nA bond is a debt security, similar to an IOU.\n\nWhen an investor buys a bond, the investor is lending money to the bond issuer.\n\nGovernments, municipalities, and companies may issue bonds to raise money.\n\nThe issuer generally promises to pay interest to the bondholder and repay the principal when the bond reaches maturity.\n\nCorporate bonds are issued by companies. Investors who buy corporate bonds are lending money to the company.\n\nBonds can involve different types of risk, including the risk that the issuer may fail to make required payments.\n\nBonds and stocks represent different relationships with a company. A stock represents ownership, while a corporate bond represents money lent to the company."
+  },
+  {
+    "source": "07_fees_expenses.txt",
+    "chunk_id": 0,
+    "text": "Investment Fund Fees and Expenses\n\nSource: Investor.gov — U.S. Securities and Exchange Commission\n\nMutual funds and ETFs have operating costs.\n\nFunds can pass these costs to investors through fees and expenses.\n\nFees and expenses reduce investment returns.\n\nEven relatively small differences in fees can lead to meaningful differences in investment returns over long periods of time.\n\nAnnual fund operating expenses are generally deducted from the fund's assets.\n\nOne common measure of fund costs is the expense ratio.\n\nInvestors should consider fees and expenses when comparing mutual funds or ETFs.\n\nA higher-cost fund must perform better than a lower-cost fund in order to produce the same return for an investor."
+  },
+  {
+    "source": "08_compound_interest.txt",
+    "chunk_id": 0,
+    "text": "Compound Interest\n\nSource: Investor.gov — U.S. Securities and Exchange Commission\n\nCompound interest is interest earned on both the original principal and previously accumulated interest.\n\nThis means that interest can begin earning additional interest over time.\n\nCompounding can cause money to grow faster over longer periods compared with earning interest only on the original principal.\n\nThe amount produced by compounding depends on factors such as the starting amount, interest rate, and length of time.\n\nTime can have a significant effect on compound growth because previous gains can contribute to future growth.\n\nCompound interest is an important concept for understanding long-term saving and investing."
+  },
+  {
+    "source": "09_10k_mda.txt",
+    "chunk_id": 0,
+    "text": "Understanding a 10-K: Risk Factors and MD&A\n\nSource: U.S. Securities and Exchange Commission\n\nA Form 10-K is an annual report filed by many U.S. public companies with the Securities and Exchange Commission.\n\nItem 1A, Risk Factors, contains information about significant risks that apply to the company or its securities.\n\nRisk factors may relate to the company itself, its industry, geographic areas, or broader economic conditions.\n\nThe Risk Factors section primarily describes risks rather than explaining how management plans to solve them.\n\nManagement's Discussion and Analysis, commonly called MD&A, provides management's perspective on the company's financial condition and results of operations.\n\nMD&A includes discussion of areas such as liquidity, capital resources, and results of operations.\n\nInvestors can use MD&A together with the financial statements and Risk Factors section to better"
+  },
+  {
+    "source": "09_10k_mda.txt",
+    "chunk_id": 1,
+    "text": "idity, capital resources, and results of operations.\n\nInvestors can use MD&A together with the financial statements and Risk Factors section to better understand the company's performance and major uncertainties."
+  }
+]

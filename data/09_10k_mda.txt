@@ -1,0 +1,17 @@
+Understanding a 10-K: Risk Factors and MD&A
+
+Source: U.S. Securities and Exchange Commission
+
+A Form 10-K is an annual report filed by many U.S. public companies with the Securities and Exchange Commission.
+
+Item 1A, Risk Factors, contains information about significant risks that apply to the company or its securities.
+
+Risk factors may relate to the company itself, its industry, geographic areas, or broader economic conditions.
+
+The Risk Factors section primarily describes risks rather than explaining how management plans to solve them.
+
+Management's Discussion and Analysis, commonly called MD&A, provides management's perspective on the company's financial condition and results of operations.
+
+MD&A includes discussion of areas such as liquidity, capital resources, and results of operations.
+
+Investors can use MD&A together with the financial statements and Risk Factors section to better understand the company's performance and major uncertainties.

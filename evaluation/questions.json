@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is an ETF?",
+    "expected_source": "02_etfs.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "Why might an investor use an ETF?",
+    "expected_source": "02_etfs.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What does diversification mean?",
+    "expected_source": "03_diversification.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "How can diversification help reduce investment risk?",
+    "expected_source": "03_diversification.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What are the main financial statements?",
+    "expected_source": "04_financial_statements.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "Where in a 10-K can I find important risks facing a company?",
+    "expected_source": "05_reading_10k.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What is the Risk Factors section of a 10-K?",
+    "expected_source": "09_10k_mda.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What does MD&A explain?",
+    "expected_source": "09_10k_mda.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What is a bond?",
+    "expected_source": "06_bonds.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What is the difference between a stock and a corporate bond?",
+    "expected_source": "06_bonds.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "How do investment fund fees affect returns?",
+    "expected_source": "07_fees_expenses.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What is an expense ratio?",
+    "expected_source": "07_fees_expenses.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What is compound interest?",
+    "expected_source": "08_compound_interest.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "Why does time matter for compound growth?",
+    "expected_source": "08_compound_interest.txt",
+    "should_refuse": false
+  },
+  {
+    "question": "What will Bitcoin cost next year?",
+    "expected_source": null,
+    "should_refuse": true
+  },
+  {
+    "question": "Which cryptocurrency should I buy today?",
+    "expected_source": null,
+    "should_refuse": true
+  },
+  {
+    "question": "Who will win the next World Cup?",
+    "expected_source": null,
+    "should_refuse": true
+  },
+  {
+    "question": "What is the best restaurant in London?",
+    "expected_source": null,
+    "should_refuse": true
+  },
+  {
+    "question": "What will Apple's share price be next month?",
+    "expected_source": null,
+    "should_refuse": true
+  },
+  {
+    "question": "Should I put all my savings into Tesla stock?",
+    "expected_source": null,
+    "should_refuse": true
+  }
+]
